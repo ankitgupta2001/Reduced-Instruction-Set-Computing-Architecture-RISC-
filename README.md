@@ -9,11 +9,6 @@ https://www.youtube.com/watch?v=cfPDeso3XwI
 ## Prerequisites
 You'll need a c compiler that compiles to the c99 standard, and git is recommended.
 
-## Get basic-cpu
-Use the following command to get the repository:
-
-`git clone https://github.com/pbohun/basic-cpu.git`
-
 ## Usage
 Include the `cpu.h` file in your program and you're ready to go. You have to use the `new_cpu()` function to create a new cpu and `free_cpu()` function at the end.  
 
